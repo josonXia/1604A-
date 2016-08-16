@@ -1,0 +1,17 @@
+Masonry是Github上排名第三的OC第三方框架, 在纯代码书写约束上, 超越原生方式. 详细见Masonry文档
+AFNetworking 是一款网络请求的第三方
+YYKit 主要作用于解析数据和加载图片缓存问题
+SDWebImage 主要作用于图片缓存（基本不用YYKit的在上面进行封装过，基本用YYKit） 
+BlocksKit 可以使button得点击方法里面调用block，不再需要其他地方写方法
+MBProgressHUD 作用与在网络请求未加载完时，会显示一个菊花小图标在哪转，请求完毕则消失
+MJRefresh 一款头部和脚步下拉刷新的软件
+CHTCollectionViewWaterfallLayout 主要作用与瀑布流布局
+UITableView+FDTemplateLayoutCell 主要作用于自适应cell
+iCarousel 主要作用于头部滚动视图，或欢迎页
+WMPageController 作用于头部状态栏的翻页效果（昨天说的）
+MWPhotoBrowser 可以将下载下来和缓存下来的照片无缝展示出来
+MLTransition 一款类型与QQ那样可以滑动侧边栏的第三方
+CocoaLumberjack 是友盟统计用户信息数据的第三方
+还有一款在进行网络请求时运营商那地方会出现个小菊花的第三方，忘记叫啥了
+友盟第三分享等等就不说了
+
